@@ -24,7 +24,7 @@ A simple face attendance system using **FastAPI** and **face\_recognition**. The
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/your-username/face-attendance-api.git
+git clone https://github.com/YusufFauziyan/face-attendance-api.git
 cd face-attendance-api
 
 # 2. (Optional) Create a virtual environment
@@ -36,16 +36,6 @@ brew install cmake
 
 # 4. Install Python dependencies
 pip install -r requirements.txt
-```
-
-If you don’t have `requirements.txt`, create one with:
-
-```txt
-fastapi
-uvicorn
-face_recognition
-python-multipart
-opencv-python
 ```
 
 ---
